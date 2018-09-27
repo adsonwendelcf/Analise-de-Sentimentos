@@ -1,0 +1,48 @@
+inimigos, 1
+odio, 1
+odio muito, 2
+desanimada, 1
+feiura, 1
+má, 1
+mal, 1 
+Ofuscar, 2
+pouco, 1
+péssimo, 2
+anonima, 1
+Mediocre, 2
+hostil, 1
+pior, 1
+brutalidade, 1
+odio, 1
+guerra, 1
+incapaz, 1
+demônio, 1
+agredido, 1   
+esfaqueado, 1   
+facada, 1  
+horrível, 2  
+odeio, 1  
+falta,1
+criminoso, 1
+crueldade, 1
+desumanidade, 1
+impiedade, 1
+indiferença, 1
+frieza, 1
+apatia, 1
+insensibilidade, 1
+brutalidade, 1
+impassibilidade, 1
+imisericórdia, 1
+desatenção, 1
+descompaixão, 1
+buga, 1
+muito feio, 2
+ficou feio, 2
+racista, 2
+Contra, 1
+perde, 1
+atacados, 1
+sofre, 1
+criticam , 1 
+
